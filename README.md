@@ -17,21 +17,13 @@ I'm a 4th-year Computer Science student and Android Developer at [Xetid, Santa C
 ## 🌟 Favorite Projects
 
 - [Modular-App-Contact](https://github.com/cjorgeluis122333/Modular-App-Contact)  
-  Modular Android app for managing contacts, focusing on clean architecture and Jetpack Compose.
+  Modular Android application for managing contacts, featuring a clean architecture and built with Jetpack Compose.
 
 - [my-practice-spring-boot](https://github.com/cjorgeluis122333/my-practice-spring-boot)  
-  Spring Boot backend practice project with RESTful APIs and modern Java patterns.
+  Practice backend project developed with Spring Boot, implementing RESTful APIs and modern Java design patterns.
 
 - [final-project-react](https://github.com/cjorgeluis122333/final-project-react)  
-  Final web development project using React, featuring advanced UI components and state management.
-
-## 📈 GitHub Stats
-
-![cjorgeluis122333's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjorgeluis122333&show_icons=true&theme=radical)
-
-## 🏆 Trophies
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=cjorgeluis122333&theme=radical&no-frame=true&margin-w=5)
+  Final web development project built with React, showcasing advanced UI components and robust state management.
 
 ## 🔗 Find Me Online
 
