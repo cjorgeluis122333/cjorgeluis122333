@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Jorge Luis Castillo
 
 ## 🎓 About Me
-https://www.xetid.cu/en
+
 I'm a 4th-year Computer Science student and Android Developer at [Xetid](https://www.xetid.cu/en), a Cuban tech company. With over two years of experience in Android development, I focus on building innovative mobile solutions for the Cuban ecosystem.
 
 ## 🚀 Skills & Technologies
