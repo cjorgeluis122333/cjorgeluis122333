@@ -13,9 +13,9 @@ I am a passionate software developer with over 3 years of experience designing a
 | **Mobile** | Kotlin, Jetpack Compose, Android Studio  |
 | **Backend** | Java (Spring Boot), PHP (Laravel) |
 | **Frontend** | React, TypeScript, JavaScript, HTML5/CSS3 |
-| **Databases** | PostgreSQL, MySQL, SQLite, Redis, TiDB Cloud |
-| **DevOps** | Docker, GitHub Actions, GitLab CI, Vercel, Supabase |
-| **Architecture** | Clean Architecture, Hexagonal, Microservices, MVC |
+| **Databases** | PostgreSQL, MySQL, SQLite, Redis |
+| **DevOps** | Docker, GitHub Actions, GitLab CI, Vercel, Supabase, TiDB Cloud |
+| **Architecture** | Clean Architecture, Hexagonal, Microservices, MVC, MVVM |
 
 ---
 
@@ -31,9 +31,8 @@ I am a passionate software developer with over 3 years of experience designing a
 ## 📊 Experience at a Glance
 
 * **Software Developer** @ *Club Cubano Venezolano* (Jan 2026 – Present) 
-* **Software Developer** @ [**Xetid**](https://www.xetid.cu/) (2023 – Present) 
-* **B1 English Level:** Capable of technical documentation and professional communication.
-
+* **Software Developer** @ [**Xetid**](https://www.xetid.cu/) (2023 – Present)
+  
 ---
 
 ## 📫 Connect with me
