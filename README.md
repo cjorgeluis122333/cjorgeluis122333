@@ -35,6 +35,13 @@ I am a passionate software developer with over 3 years of experience designing a
   
 ---
 
+## 📊 My GitHub Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cjorgeluis122333&show_icons=true&theme=radical" alt="Jorge's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjorgeluis122333&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
 ## 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-luis-castillo-a93514341) 
