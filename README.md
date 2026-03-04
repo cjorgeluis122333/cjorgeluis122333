@@ -6,15 +6,6 @@ I am a passionate software developer with over 3 years of experience designing a
 
 ---
 
-## 🚀 Professional Highlights
-
-* **Lead Developer (Greenfield):** Currently leading the end-to-end creation of an ERP system for enterprise management, focusing on Fintech modules and real-time remote payment gateways.
-* **Technical Leadership:** Directed the "Reciclo" project for the Raw Materials Recovery Company in Santa Clara, managing the full SDLC.
-* **Architecture Specialist:** Expert in implementing **Clean Architecture**, **Hexagonal Architecture**, and **Microservices** to ensure high-performance and scalable products.
-* **Mobile Expert:** Solid experience in Android development using **Kotlin** and **Jetpack Compose**.
-
----
-
 ## 🛠️ Tech Stack & Tools
 
 | Category | Technologies |
