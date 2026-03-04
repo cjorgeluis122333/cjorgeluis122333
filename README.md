@@ -31,7 +31,7 @@ I am a passionate software developer with over 3 years of experience designing a
 ## 📊 Experience at a Glance
 
 * **Software Developer** @ *Club Cubano Venezolano* (Jan 2026 – Present) 
-* **Software Developer** @ *Xetid* (2022 – Present) 
+* **Software Developer** @ [**Xetid**](https://www.xetid.cu/) (2023 – Present) 
 * **B1 English Level:** Capable of technical documentation and professional communication.
 
 ---
