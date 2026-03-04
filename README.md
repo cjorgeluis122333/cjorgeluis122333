@@ -19,8 +19,10 @@ I'm a 4th-year Computer Science student and Android Developer at [Xetid](https:/
 - [Modular-App-Contact](https://github.com/cjorgeluis122333/Modular-App-Contact)  
   Modular Android application for managing contacts, featuring a clean architecture and built with Jetpack Compose.
 
-- [my-practice-spring-boot](https://github.com/cjorgeluis122333/my-practice-spring-boot)  
+- [hexagonal-architecture-sample-springboot](https://github.com/cjorgeluis122333/hexagonal-architecture-sample-springboot)  
   Practice backend project developed with Spring Boot, implementing RESTful APIs and modern Java design patterns.
+
+- [laravel-secuity-sample](https://github.com/cjorgeluis122333/laravel-secuity-sample.git)
 
 - [final-project-react](https://github.com/cjorgeluis122333/final-project-react)  
   Final web development project built with React, showcasing advanced UI components and robust state management.
