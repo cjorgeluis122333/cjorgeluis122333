@@ -2,16 +2,16 @@
 
 ### **Full-Stack & Mobile Software Developer | Computer Science Student**
 
-[cite_start]I am a passionate software developer with over 3 years of experience [cite: 8] [cite_start]designing and building scalable web and mobile solutions[cite: 10]. [cite_start]Currently, I'm a 4th-year Computer Science student at **UCLV** [cite: 22] [cite_start]and a Software Developer at **Club Cubano Venezolano** and **Xetid**[cite: 13, 17].
+I am a passionate software developer with over 3 years of experience designing and building scalable web and mobile solutions. Currently, I'm a 4th-year Computer Science student at **UCLV** and a Software Developer at **Club Cubano Venezolano** and **Xetid**.
 
 ---
 
 ## 🚀 Professional Highlights
 
-* [cite_start]**Lead Developer (Greenfield):** Currently leading the end-to-end creation of an ERP system for enterprise management, focusing on Fintech modules and real-time remote payment gateways[cite: 14, 15].
-* [cite_start]**Technical Leadership:** Directed the "Reciclo" project for the Raw Materials Recovery Company in Santa Clara, managing the full SDLC[cite: 18].
-* [cite_start]**Architecture Specialist:** Expert in implementing **Clean Architecture**, **Hexagonal Architecture**, and **Microservices** to ensure high-performance and scalable products[cite: 10, 29].
-* [cite_start]**Mobile Expert:** Solid experience in Android development using **Kotlin** and **Jetpack Compose**[cite: 26].
+* **Lead Developer (Greenfield):** Currently leading the end-to-end creation of an ERP system for enterprise management, focusing on Fintech modules and real-time remote payment gateways.
+* **Technical Leadership:** Directed the "Reciclo" project for the Raw Materials Recovery Company in Santa Clara, managing the full SDLC.
+* **Architecture Specialist:** Expert in implementing **Clean Architecture**, **Hexagonal Architecture**, and **Microservices** to ensure high-performance and scalable products.
+* **Mobile Expert:** Solid experience in Android development using **Kotlin** and **Jetpack Compose**.
 
 ---
 
@@ -19,29 +19,29 @@
 
 | Category | Technologies |
 | :--- | :--- |
-| **Mobile** | [cite_start]Kotlin, Jetpack Compose, Android Studio [cite: 26, 30] |
-| **Backend** | [cite_start]Java (Spring Boot), PHP (Laravel) [cite: 25] |
-| **Frontend** | [cite_start]React, TypeScript, JavaScript, HTML5/CSS3 [cite: 24] |
-| **Databases** | [cite_start]PostgreSQL, MySQL, SQLite, Redis, TiDB Cloud [cite: 27, 28] |
-| **DevOps** | [cite_start]Docker, GitHub Actions, GitLab CI, Vercel, Supabase [cite: 28] |
-| **Architecture** | [cite_start]Clean Architecture, Hexagonal, Microservices, MVC [cite: 29] |
+| **Mobile** | Kotlin, Jetpack Compose, Android Studio  |
+| **Backend** | Java (Spring Boot), PHP (Laravel) |
+| **Frontend** | React, TypeScript, JavaScript, HTML5/CSS3 |
+| **Databases** | PostgreSQL, MySQL, SQLite, Redis, TiDB Cloud |
+| **DevOps** | Docker, GitHub Actions, GitLab CI, Vercel, Supabase |
+| **Architecture** | Clean Architecture, Hexagonal, Microservices, MVC |
 
 ---
 
 ## 🌟 Featured Projects
 
-* [cite_start]**[Modular-App-Contact](https://github.com/cjorgeluis122333/Modular-App-Contact)**: A high-quality Android application demonstrating **Modular Architecture** and **Jetpack Compose**[cite: 26, 29].
-* [cite_start]**[Hexagonal-Architecture-Spring-Boot](https://github.com/cjorgeluis122333/hexagonal-architecture-sample-springboot)**: A backend implementation showcasing **Hexagonal Architecture** and RESTful APIs using **Spring Boot**[cite: 25, 29].
-* [cite_start]**[Laravel-Security-Sample](https://github.com/cjorgeluis122333/laravel-secuity-sample.git)**: Focused on security patterns and best practices within the **Laravel** framework[cite: 25].
-* [cite_start]**[Final-Project-React](https://github.com/cjorgeluis122333/final-project-react)**: Advanced web UI components and state management built with **React**[cite: 24].
+* **[Modular-App-Contact](https://github.com/cjorgeluis122333/Modular-App-Contact)**: A high-quality Android application demonstrating **Modular Architecture** and **Jetpack Compose**.
+* **[Hexagonal-Architecture-Spring-Boot](https://github.com/cjorgeluis122333/hexagonal-architecture-sample-springboot)**: A backend implementation showcasing **Hexagonal Architecture** and RESTful APIs using **Spring Boot**.
+* **[Laravel-Security-Sample](https://github.com/cjorgeluis122333/laravel-secuity-sample.git)**: Focused on security patterns and best practices within the **Laravel** framework.
+* **[Final-Project-React](https://github.com/cjorgeluis122333/final-project-react)**: Advanced web UI components and state management built with **React**.
 
 ---
 
 ## 📊 Experience at a Glance
 
-* [cite_start]**Software Developer** @ *Club Cubano Venezolano* (Jan 2026 – Present) [cite: 13]
-* [cite_start]**Software Developer** @ *Xetid* (2022 – Present) [cite: 17]
-* [cite_start]**B1 English Level:** Capable of technical documentation and professional communication[cite: 36].
+* **Software Developer** @ *Club Cubano Venezolano* (Jan 2026 – Present) 
+* **Software Developer** @ *Xetid* (2022 – Present) 
+* **B1 English Level:** Capable of technical documentation and professional communication.
 
 ---
 
