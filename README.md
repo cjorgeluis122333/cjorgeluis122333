@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Jorge Luis Castillo Vidal 🇨🇺
+# 👋 Hi there! I'm Jorge Luis Castillo Vidal
 
 ### **Full-Stack & Mobile Software Developer | Computer Science Student**
 
