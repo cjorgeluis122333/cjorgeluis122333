@@ -10,7 +10,7 @@ I am a passionate software developer with over 3 years of experience designing a
 
 | Category | Technologies |
 | :--- | :--- |
-| **Mobile** | Kotlin, Jetpack Compose, Android Studio  |
+| **Mobile** | Kotlin, Jetpack Compose  |
 | **Backend** | Java (Spring Boot), PHP (Laravel) |
 | **Frontend** | React, TypeScript, JavaScript, HTML5/CSS3 |
 | **Databases** | PostgreSQL, MySQL, SQLite, Redis |
