@@ -2,12 +2,9 @@
 
 ### **Full-Stack & Mobile Software Developer | Computer Science Student**
 
-> "Continuous learning is the key to innovation."
-
-[🌐 **Explore My Portfolio**](https://jorgeluiscastillo.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/jorge-luis-castillo-a93514341) | [Email](mailto:cjorgeluis122333@gmail.com)
-
----
 I am a passionate software developer with over 3 years of experience designing and building scalable web and mobile solutions. Currently, I'm a 4th-year Computer Science student at **UCLV** and a Software Developer at **Club Cubano Venezolano** and **Xetid**.
+
+🌐 **[Check out my Portfolio](https://jorgeluiscastillo.vercel.app/)**
 
 ---
 
@@ -40,11 +37,12 @@ I am a passionate software developer with over 3 years of experience designing a
   
 ---
 
-
 ## 📫 Connect with me
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jorgeluiscastillo.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-luis-castillo-a93514341) 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5356155557?text=Hola%20Jorge%20Luis,%20vi%20tu%20perfil%20y%20me%20gustar%C3%ADa%20contactarte)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cjorgeluis122333@gmail.com)
 
 > "Continuous learning is the key to innovation."
+
