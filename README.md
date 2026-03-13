@@ -2,6 +2,11 @@
 
 ### **Full-Stack & Mobile Software Developer | Computer Science Student**
 
+> "Continuous learning is the key to innovation."
+
+[🌐 **Explore My Portfolio**](https://jorgeluiscastillo.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/jorge-luis-castillo-a93514341) | [Email](mailto:cjorgeluis122333@gmail.com)
+
+---
 I am a passionate software developer with over 3 years of experience designing and building scalable web and mobile solutions. Currently, I'm a 4th-year Computer Science student at **UCLV** and a Software Developer at **Club Cubano Venezolano** and **Xetid**.
 
 ---
