@@ -1,8 +1,8 @@
 # 👋 Hi there! I'm Jorge Luis Castillo Vidal
 
-### **Full-Stack & Mobile Software Developer | Computer Science Student**
+### **Full-Stack & Mobile Software Developer | Bachelor's Degree in Computer Science**
 
-I am a passionate software developer with over 3 years of experience designing and building scalable web and mobile solutions. Currently, I'm a 4th-year Computer Science student at **UCLV** and a Software Developer at **Club Cubano Venezolano** and **Xetid**.
+I am a passionate software developer with over 3 years of experience designing and building scalable web and mobile solutions. I'm a Currently, Bachelor's Degree in Computer Science at **UCLV** and a Software Developer at **Club Cubano Venezolano** and **Xetid**.
 
 🌐 **[Check out my Portfolio](https://jorgeluiscastillo.vercel.app/)**
 
@@ -12,12 +12,12 @@ I am a passionate software developer with over 3 years of experience designing a
 
 | Category | Technologies |
 | :--- | :--- |
-| **Mobile** | Kotlin, Jetpack Compose  |
+| **Mobile** | Kotlin (Jetpack Compose), React Native (Expo)  |
 | **Backend** | Java (Spring Boot), PHP (Laravel) |
-| **Frontend** | React, TypeScript, JavaScript, HTML5/CSS3 |
+| **Frontend** | React, TypeScript, JavaScript |
 | **Databases** | PostgreSQL, MySQL, SQLite, Redis |
 | **DevOps** | Docker, GitHub Actions, GitLab CI, Vercel, Supabase, TiDB Cloud |
-| **Architecture** | Clean Architecture, Hexagonal, Microservices, MVC, MVVM |
+| **Architecture** | Clean Architecture, Hexagonal, Microservices, MVC, MVVM, ... |
 
 ---
 
