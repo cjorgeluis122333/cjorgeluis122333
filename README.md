@@ -38,7 +38,8 @@ A business-focused web application built to help a store promote and manage its 
 ### [jl-particles-interactive](https://github.com/cjorgeluis122333/jl-particles-interactive.git)
 A React library that makes it easy to create interactive particle-based backgrounds and animated text effects. It also includes a playground for quick testing and a package published on npm.
 
-**Install:** `npm install jl-particle-interactive`  
+**Install:** `npm install jl-particle-interactive`
+**Or:** `yarn add install jl-particle-interactive` · `pnpm add install jl-particle-interactive`  
 **npm:** [jl-particle-interactive](https://www.npmjs.com/package/jl-particle-interactive)  
 **Playground:** [jl-particles-interactive.vercel.app](https://jl-particles-interactive-l7djz9wub-jorge-luis-projects-39ec2794.vercel.app/)
 
