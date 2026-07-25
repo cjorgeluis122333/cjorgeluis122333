@@ -26,7 +26,14 @@ I am a passionate software developer with over 3 years of experience designing a
 ### [Mascotienda](https://github.com/cjorgeluis122333/mascotienda.git)
 A business-focused web application built to help a store promote and manage its products. Product information stays up to date through a **Supabase** database used by the business owners, making inventory and catalog management easier. The application is live here: **[mascotienda-mauve.vercel.app](https://mascotienda-mauve.vercel.app/)**.
 
-![Mascotienda preview](./assets/mascotienda-preview.jpeg)
+> 📱 Note: This preview shows the **companion mobile app** used by the store owners to manage products, inventory and catalog updates. It is **not** the public web storefront itself. The mobile app's repository is **private** and the application is exclusively for the store owners' internal use, so it cannot be shared publicly.
+>
+> <details>
+> <summary><b>👁️ Click to view preview</b></summary>
+>
+> ![Mascotienda mobile admin preview](./assets/mascotienda-preview.jpeg)
+>
+> </details>
 
 ### [jl-particles-interactive](https://github.com/cjorgeluis122333/jl-particles-interactive.git)
 A React library that makes it easy to create interactive particle-based backgrounds and animated text effects. It also includes a playground for quick testing and a package published on npm.
